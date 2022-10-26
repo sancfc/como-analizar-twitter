@@ -1,0 +1,3 @@
+Date	N. Tweets	 N. Unique users	 N. New users
+20220906	824	463	463
+20220907	80	58	44

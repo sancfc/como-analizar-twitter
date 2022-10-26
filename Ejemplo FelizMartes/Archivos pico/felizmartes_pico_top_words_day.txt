@@ -1,0 +1,3 @@
+Date	vez	posible	volcán	visto	románico	loire	localidad	iglesia	haute	francia
+20220906	116	107	96	96	96	96	96	96	96	96
+20220907	9	9	9	9	9	9	9	9	9	9

@@ -1,0 +1,3 @@
+Date	N. Tweets	N. RTs	N. Replies	N. Mentions
+20220906	824	701	0	773
+20220907	80	74	0	75

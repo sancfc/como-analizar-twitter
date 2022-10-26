@@ -1,0 +1,73 @@
+App	N. Tweets
+Twitter for Android	7628
+Twitter Web App	2556
+Twitter for iPhone	1637
+Twitter for iPad	229
+TweetDeck	218
+El Horóscopo del Zodíaco	106
+Hootsuite Inc.	60
+Buffer	34
+Metricool	23
+linuxsc	18
+WordPress.com	14
+Práctica Médica	14
+mmjulioapi-oaxaca	11
+Publer.io	10
+Instagram	9
+IFTTT	9
+ZT Social Analytics	8
+tritalpuskar	6
+Twitter Media Studio	6
+TweetDeck Web App	6
+Echobox	6
+Tweetbot for iΟS	5
+Postcron App	4
+Contesta2r	4
+criptos2	3
+SocialGest	3
+Revive Social App	3
+OnlyPultCom	3
+GoDaddy Social App	3
+EcuaBot 2.0	3
+designthinkbot	2
+WIWIBOT1	2
+Twitter for Mac	2
+TrendyBot_MX	2
+The Tweeted Times	2
+Sprout Social	2
+Piepmatz	2
+MyfirstAppDavid	2
+Liberatory Retweets	2
+Considerame-tt	2
+Оwly	1
+twitter-bot-fab	1
+rt ja fd	1
+dpuntodata	1
+Zoho Social	1
+Twitterrific for iOS	1
+Twitter for Advertisers	1
+Tweetcam17	1
+TweetCaster for Android	1
+TienesCorazonDeLeon_	1
+Talon Android	1
+SprintbaseBot	1
+Spreaker	1
+SocialPilot.co	1
+SocialFlow	1
+RADAAR	1
+QuentinCBot	1
+Onesend 	1
+Microsoft Power Platform	1
+Janetter for Android	1
+EdiBot3000	1
+Echofon	1
+DeZT	1
+CoronaTweetBot	1
+ChrisGeekWorld RT 2	1
+Cheap Bots, Done Quick!	1
+Bot Analizer	1
+Adoradores Online	1
+AEMET_avisos_Esp	1
+AEMET_And_API	1
+50trends Mexico	1
+3dRenderBot	1

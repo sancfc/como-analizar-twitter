@@ -1,0 +1,3 @@
+Date	Twitter for Android	Twitter Web App	Twitter for iPhone	TweetDeck	Twitter for iPad
+20220906	662	74	42	39	7
+20220907	73	1	3	2	1
