@@ -1,5 +1,5 @@
 # Cómo analizar datos de Twitter
-Vamos a ver como se pueden analizar los datos de Twitter obteniendolos con dos programas: t-hoarder y twarc2. Quiero expresar mi máximo agradecimiento a [Mari Luz Congosto](https://github.com/congosto) por crear t-hoarder y a Jara Juana Bermejo Vega y [Pynomaly](https://github.com/pynomaly) por su apoyo y guía.
+Vamos a ver como se pueden analizar los datos de Twitter obteniendolos con dos programas: [t-hoarder](https://github.com/congosto/t-hoarder_kit) y [twarc2](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/). Quiero expresar mi máximo agradecimiento a [Mari Luz Congosto](https://github.com/congosto) por crear t-hoarder y a Jara Juana Bermejo Vega y [Pynomaly](https://github.com/pynomaly) por su apoyo y guía.
 
 He grabado todo el proceso de instalación y análisis en este [vídeo](https://www.youtube.com/watch?v=Fb5ZsmasuVw) por si alguna parte no queda clara. Falta la parte de pedir el acceso elevado por temas de privacidad, aunque está explicado. El vídeo está dividido en capítulos para navegarlo más fácilmente.
 
@@ -36,7 +36,7 @@ Una vez que tengamos la máquina virtual instalada y una app que funcione con la
 
 ### Usar t-hoarder
 Ya podemos usarlo. Elegimos una opción y seguimos las instrucciones. Las opciones que yo uso más son:
-* 3. Para generar una query. Ej: "#felizjueves".
+* 3\. Para generar una query. Ej: "#felizjueves".
 * 8 remove-duplicate-tweets. Para limpiar el archivo. Se puede hacer con otro lenguaje de programación.
 * 8 sort. Para ordenar de más antiguo a más reciente (el archivo se genera al revés). Se puede hacer con otro lenguaje también.
 * 6 generate dynamic relations - RT. Para obtener el archivo .gdf que nos permite generar el grafo de RTs.
