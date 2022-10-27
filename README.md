@@ -1,5 +1,5 @@
 # Cómo analizar datos de Twitter
-Vamos a ver como se pueden analizar los datos de Twitter obteniendolos con dos programas: [t-hoarder](https://github.com/congosto/t-hoarder_kit) y [twarc2](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/). Quiero expresar mi máximo agradecimiento a [Mari Luz Congosto](https://github.com/congosto) por crear t-hoarder y a Jara Juana Bermejo Vega y [Pynomaly](https://github.com/pynomaly) por su apoyo y guía.
+Vamos a ver cómo se pueden analizar los datos de Twitter obteniéndolos con dos programas: [t-hoarder](https://github.com/congosto/t-hoarder_kit) y [twarc2](https://twarc-project.readthedocs.io/en/latest/twarc2_en_us/). Quiero expresar mi máximo agradecimiento a [Mari Luz Congosto](https://github.com/congosto) por crear t-hoarder y a Jara Juana Bermejo Vega y [Pynomaly](https://github.com/pynomaly) por su apoyo y guía.
 
 He grabado todo el proceso de instalación y análisis en este [vídeo](https://www.youtube.com/watch?v=Fb5ZsmasuVw) por si alguna parte no queda clara. Falta la parte de pedir el acceso elevado por temas de privacidad, aunque está explicado. El vídeo está dividido en capítulos para navegarlo más fácilmente.
 
