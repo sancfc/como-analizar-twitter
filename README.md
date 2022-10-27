@@ -46,7 +46,7 @@ Ya podemos usarlo. Elegimos una opción y seguimos las instrucciones. Las opcion
 
 ## Gephi
 Gephi es un programa de código abierto para representar grafos. Con él podemos abrir los archivos .gdf que obtenemos con la opción 6 de t-hoarder. Aquí hay un tutorial básico de como manipular grafos:
-* [Tutorial Gephi](http://periodisme-dades.recursos.uoc.edu/es/6-1-4-preguntas-a-resolver/) (sobre la mitad de la página)
+* [Tutorial Gephi](http://periodisme-dades.recursos.uoc.edu/es/6-1-4-preguntas-a-resolver/). (sobre la mitad de la página)
 Gephi es clave porque nos permite separar las cuentas en comunidades. Mientras más relación ahí entre un grupo de nodos más se atraen, con lo que se terminan formando nubes, que serán las comunidades. Luego esos datos se pueden exportar y juntarlos con el archivo del hashtag obtenido con t-hoarder. Con Python se podrá filtrar por comunidad y así podemos separar los tweets, por ejemplo entre gente a favor y en contra de un tema.
 
 ## Análisis de datos
@@ -55,4 +55,4 @@ En mi caso me he decantado por Python, aunque se podrían utilizar otros lenguaj
 He elegido Visual Studio Code para escribir el código.
 * [Descarga de Visual Studio Code](https://code.visualstudio.com/download)
 También habría que instalar Python (aunque esté diponible la 3.11 he descargado la 3.10.8 para evitar un error en Visual Studio Code) y las librerías usadas al principio del notebook. Pip viene con python, pero si no viniera también habría que instalarlo.
-* Enlaces: [Python](https://www.python.org/downloads/), [Cómo instalar librerías (Ej pandas](https://pandas.pydata.org/docs/getting_started/install.html#installing-from-pypi), [Pip](https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows)
+* Enlaces: [Python](https://www.python.org/downloads/), [Cómo instalar librerías (Ej pandas)](https://pandas.pydata.org/docs/getting_started/install.html#installing-from-pypi), [Pip](https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows)
