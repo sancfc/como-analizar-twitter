@@ -65,4 +65,12 @@ He elegido Visual Studio Code para escribir el código.
 * [Descarga de Visual Studio Code](https://code.visualstudio.com/download)
 
 También habría que instalar Python (aunque esté diponible la 3.11 he descargado la 3.10.8 para evitar un error en Visual Studio Code) y las librerías usadas al principio del notebook. Pip viene con python, pero si no viniera también habría que instalarlo.
-* Descargas: [Python](https://www.python.org/downloads/), [Cómo instalar librerías (Ejemplo pandas)](https://pandas.pydata.org/docs/getting_started/install.html#installing-from-pypi), [Pip](https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows)
+* [Descargar Python](https://www.python.org/downloads/)
+* [Cómo instalar librerías (Ejemplo pandas)](https://pandas.pydata.org/docs/getting_started/install.html#installing-from-pypi)
+* [Pip](https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows)
+
+Y ya con todo esto podríamos obtener tweets con cualquier búsqueda y analizarlos a nuestro gusto.
+
+Pueden contactarme con cualquier duda en [Twitter](https://twitter.com/Estrohacker_) y en el correo electrónico: estrohacker@protonmail.com.
+
+Muchas gracias.
