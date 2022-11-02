@@ -28,11 +28,9 @@ Una vez tengamos el acceso elevado tenemos que crear una app de la API v1.1 de T
 
 - Académico: hasta 10 millones de tweets mensuales. Sin límite de antigüedad. API v1.1 y API v2 - twarc2 y t-hoarder
 
-
 ## t-hoarder
 Por lo fácil que es recomiendo usar t-hoarder con esta máquina virtual Linux donde viene ya instalado:
 * [Tutorial para instalar máquina virtual](https://www.dropbox.com/s/j0p26bmgmct3vll/como_instalar_VM_taller_datos_twitter.pdf?dl=0)
-<br />
 
 ### Configurar t-hoarder
 Una vez que tengamos la máquina virtual instalada y una app que funcione con la API v1.1 podemos pasar a la configuración de t-hoarder. Para ello tenemos que enlazar el programa con la app dentro de la máquina virtual. 
@@ -58,13 +56,13 @@ Ya podemos usarlo. Elegimos una opción y seguimos las instrucciones. Las opcion
 ## Gephi
 Gephi es un programa de código abierto para representar grafos. Con él podemos abrir los archivos .gdf que obtenemos con la opción 6 de t-hoarder. Aquí hay un tutorial básico de como manipular grafos:
 * [Tutorial Gephi](http://periodisme-dades.recursos.uoc.edu/es/6-1-4-preguntas-a-resolver/). (sobre la mitad de la página)
-Gephi es clave porque nos permite separar las cuentas en comunidades. Mientras más relación ahí entre un grupo de nodos más se atraen, con lo que se terminan formando nubes, que serán las comunidades. Luego esos datos se pueden exportar y juntarlos con el archivo del hashtag obtenido con t-hoarder. Con Python se podrá filtrar por comunidad y así podemos separar los tweets, por ejemplo entre gente a favor y en contra de un tema.
+Gephi es clave porque nos permite separar las cuentas en comunidades. Mientras más relaciones hay entre un grupo de nodos más se atraen, con lo que se terminan formando nubes, que serán las comunidades. Luego esos datos se pueden exportar y juntarlos con el archivo del hashtag obtenido con t-hoarder. Con Python se podrá filtrar por comunidad y así podemos separar los tweets, por ejemplo entre gente a favor y en contra de un tema. Los detalles de este proceso se pueden ver en el [Notebook de muestra](https://github.com/Estrohacker/como-analizar-twitter/blob/main/Ejemplo%20FelizMartes/Analisis/0.An%C3%A1lisis%20de%20hashtags%20de%20Twitter%20con%20Python.ipynb) y en el [vídeo de youtube](https://www.youtube.com/watch?v=Fb5ZsmasuVw).
 
 ## Análisis de datos
-En mi caso me he decantado por Python, aunque se podrían utilizar otros lenguajes como R, por ejemplo. En este repositorio he dejado un notebook con el análisis que he hecho hasta ahora, aunque se podrían hacer muchas más cosas.
+En mi caso me he decantado por Python, aunque se podrían utilizar otros lenguajes como R, por ejemplo. En este repositorio he dejado un [Notebook de muestra](https://github.com/Estrohacker/como-analizar-twitter/blob/main/Ejemplo%20FelizMartes/Analisis/0.An%C3%A1lisis%20de%20hashtags%20de%20Twitter%20con%20Python.ipynb) con el análisis que he hecho hasta ahora, aunque se podrían hacer muchas más cosas. En el [vídeo de youtube](https://www.youtube.com/watch?v=Fb5ZsmasuVw) muestro como adaptar el Notebook según el archivo de tweets guardado y también cambió algunos parámetros que dependen de los datos, como las coordenadas de los gráficos hechos con Matplotlib.
 
 He elegido Visual Studio Code para escribir el código.
 * [Descarga de Visual Studio Code](https://code.visualstudio.com/download)
 
 También habría que instalar Python (aunque esté diponible la 3.11 he descargado la 3.10.8 para evitar un error en Visual Studio Code) y las librerías usadas al principio del notebook. Pip viene con python, pero si no viniera también habría que instalarlo.
-* Descargas: [Python](https://www.python.org/downloads/), [Cómo instalar librerías (Ej pandas)](https://pandas.pydata.org/docs/getting_started/install.html#installing-from-pypi), [Pip](https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows)
+* Descargas: [Python](https://www.python.org/downloads/), [Cómo instalar librerías (Ejemplo pandas)](https://pandas.pydata.org/docs/getting_started/install.html#installing-from-pypi), [Pip](https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows)
