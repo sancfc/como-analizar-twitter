@@ -30,7 +30,8 @@ Una vez tengamos el acceso elevado tenemos que crear una app de la API v1.1 de T
 
 ## t-hoarder
 Por lo fácil que es recomiendo usar t-hoarder con esta máquina virtual Linux donde viene ya instalado:
-* [Tutorial para instalar máquina virtual](https://www.dropbox.com/s/j0p26bmgmct3vll/como_instalar_VM_taller_datos_twitter.pdf?dl=0)
+* [Tutorial para instalar máquina virtual](https://www.dropbox.com/s/j0p26bmgmct3vll/como_instalar_VM_taller_datos_twitter.pdf?dl=0)<br />
+Dentro del Linux de la máquina virtual podemos ir a "Menu" -> "Pantallas" y clicamos en "Resolución". Con mi pantalla de 1920x1080 me funciona bien 1600x900 en la máquina virtual.
 
 ### Configurar t-hoarder
 Una vez que tengamos la máquina virtual instalada y una app que funcione con la API v1.1 podemos pasar a la configuración de t-hoarder. Para ello tenemos que enlazar el programa con la app dentro de la máquina virtual. 
