@@ -56,7 +56,7 @@ Ya podemos usarlo. Elegimos una opción y seguimos las instrucciones. Las opcion
 
 ## Gephi
 Gephi es un programa de código abierto para representar grafos. Con él podemos abrir los archivos .gdf que obtenemos con la opción 6 de t-hoarder. Aquí hay un tutorial básico de como manipular grafos:
-* **[Tutorial Gephi](http://periodisme-dades.recursos.uoc.edu/es/6-1-4-preguntas-a-resolver/)**. (sobre la mitad de la página)
+* **[Tutorial Gephi](http://periodisme-dades.recursos.uoc.edu/es/6-1-4-preguntas-a-resolver/)** (sobre la mitad de la página).
 Gephi es clave porque nos permite separar las cuentas en comunidades. Mientras más relaciones hay entre un grupo de nodos más se atraen, con lo que se terminan formando nubes, que serán las comunidades. Luego esos datos se pueden exportar y juntarlos con el archivo del hashtag obtenido con t-hoarder. Con Python se podrá filtrar por comunidad y así podemos separar los tweets, por ejemplo entre gente a favor y en contra de un tema. Los detalles de este proceso se pueden ver en el **[Notebook](Ejemplo%20FelizMartes%20t-hoarder/Analisis/0.%20Analisis%20de%20FelizMartes%20con%20Python.ipynb)** y en el **[vídeo de youtube](https://www.youtube.com/watch?v=Fb5ZsmasuVw)**.
 
 ## Análisis de datos
@@ -75,7 +75,8 @@ Y ya con todo esto podríamos obtener tweets con cualquier búsqueda y analizarl
 ## Crear un grafo de hashtags
 
 Un aspecto muy interesante de Twitter son las relaciones que se forman entre hashtags. Esto se puede averiguar analizando los hashtags que conviven en un tweet, y si de un hashtag recolectamos miles de tweets podremos obtener un grafo bastante completo.<br />
-Vamos a la carpeta [Grafo de hashtags](Grafo%20de%20hashtags). En esta tenemos un **[Notebook(Grafo%20de%20hashtags/0.%20Grafo%20de%20hashtags%20FelizMartes.ipynb)]**. Simplemente tenemos que modificar el nombre de archivo .txt que pandas abrirá y poner el nuestro. Le damos a `Ejecutar todo` y respondemos a las preguntas que nos surgirán. Como alternativa, dentro de **[Script directo](Grafo%20de%20hashtags/Script%20directo)** tendremos un archivo .py que hace lo mismo por consola. Para ejecutarlo en el ordenador tenemos que abrir una terminal en la carpeta donde este el script y escribir `python .\crear_grafo_de_hashtags.py`. Elegimos el archivo con Intro y respondemos a las preguntas. Esto nos generará
+Vamos a la carpeta [Grafo de hashtags](Grafo%20de%20hashtags). En esta tenemos un **[Notebook](Grafo%20de%20hashtags/0.%20Grafo%20de%20hashtags%20FelizMartes.ipynb)**. Simplemente tenemos que modificar el nombre de archivo .txt que pandas abrirá y poner el nuestro. Le damos a `Ejecutar todo` y respondemos a las preguntas que nos surgirán. Como alternativa, dentro de **[Script directo](Grafo%20de%20hashtags/Script%20directo)** tendremos un archivo .py que hace lo mismo por consola. Para ejecutarlo en el ordenador tenemos que abrir una terminal en la carpeta donde este el script y escribir `python .\crear_grafo_de_hashtags.py`. Elegimos el archivo con Intro y respondemos a las preguntas. Ambas opciones nos generarán un archivo .gdf que podemos abrir con Gephi. Vuelvo a enlazar el tutorial:
+* **[Tutorial Gephi](http://periodisme-dades.recursos.uoc.edu/es/6-1-4-preguntas-a-resolver/)** (sobre la mitad de la página).
 
 Pueden contactarme con cualquier duda en **[Twitter](https://twitter.com/Estrohacker_)** y en el correo electrónico: **estrohacker@protonmail.com**.
 
